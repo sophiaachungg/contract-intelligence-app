@@ -1,0 +1,41 @@
+CONTRACT ID: ERG-ESS-2024-001
+TYPE: Raw Material Supply Agreement
+BRANCH: ESS (Energy & Specialty Solutions)
+PARTIES: Ergon Energy & Specialty Solutions, LLC ("Buyer") | Petro-Chem Naphthenic Suppliers, Inc. ("Supplier")
+EFFECTIVE DATE: January 1, 2024
+EXPIRATION DATE: December 31, 2025
+AUTO-RENEWAL: Yes, 30-day written notice required to terminate
+
+RECITALS
+Buyer is engaged in the production of naphthenic process oils and requires a consistent supply of naphthenic base feedstock. Supplier represents that it has the capacity and expertise to deliver such feedstock in accordance with the specifications set forth herein.
+
+1. SUPPLY OBLIGATIONS
+Supplier shall deliver a minimum of 8,000 barrels per month of naphthenic base feedstock meeting the quality specifications set forth in Exhibit A. Buyer may request up to 12,000 barrels per month with 15 days advance notice. Supplier shall use commercially reasonable efforts to fulfill excess volume requests but is not obligated to do so.
+
+2. PRICING
+Base price shall be $48.75 per barrel as of the Effective Date. Price shall be adjusted quarterly based on the NYMEX WTI crude oil 30-day rolling average. If WTI moves more than 12% in either direction within a calendar quarter, either party may request an emergency price renegotiation within 10 business days. Failure to reach agreement within 20 business days of such request shall entitle either party to suspend deliveries without penalty.
+
+3. DELIVERY
+All deliveries shall be FOB Supplier's facility in Smackover, Arkansas. Risk of loss transfers to Buyer upon loading. Buyer is responsible for arranging and paying all transportation costs from point of loading.
+
+4. QUALITY AND REJECTION
+Buyer shall have 5 business days following delivery to reject any shipment that fails to meet specifications. Rejected shipments shall be returned at Supplier's cost. Supplier's sole liability for off-spec product is replacement of the rejected quantity within 30 days. Supplier shall not be liable for any consequential, incidental, or indirect damages arising from off-spec product, including lost production or customer penalties.
+
+**RISK FLAG - LIABILITY CAP:** Supplier's total aggregate liability under this Agreement shall not exceed the value of three (3) months of deliveries at the then-current contract price, regardless of the nature of the claim.
+
+5. FORCE MAJEURE
+Neither party shall be in default for failure to perform due to causes beyond reasonable control, including acts of God, war, terrorism, government action, pipeline or refinery outages, or labor disputes. Force majeure periods exceeding 60 consecutive days entitle either party to terminate without penalty.
+
+6. INDEMNIFICATION
+Each party shall indemnify and hold harmless the other from claims arising from its own negligence or willful misconduct. Supplier shall indemnify Buyer for product liability claims arising from defective feedstock. 
+
+**RISK FLAG - INDEMNIFICATION GAP:** Supplier's indemnification obligation is limited to claims arising from gross negligence or willful misconduct only, excluding ordinary negligence. This is a non-standard carve-out that limits Buyer's recovery in product quality disputes.
+
+7. TERMINATION
+Either party may terminate for convenience with 90 days written notice. Buyer may terminate for cause if Supplier fails to deliver minimum volumes for three consecutive months. Upon termination, Buyer shall pay for all product in transit or produced to order within 30 days of notice.
+
+8. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Mississippi.
+
+SIGNATURES
+[Signature blocks omitted for synthetic document]

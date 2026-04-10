@@ -1,0 +1,40 @@
+CONTRACT ID: ERG-ISL-2024-010
+TYPE: Inland Waterway Fleet Services Agreement
+BRANCH: ISL (Integrated Services & Logistics)
+PARTIES: Ergon Inland Fleet Services, LLC ("Fleet Operator") | Southern River Petroleum, LLC ("Client")
+EFFECTIVE DATE: January 1, 2024
+EXPIRATION DATE: December 31, 2025
+AUTO-RENEWAL: No
+
+RECITALS
+Fleet Operator operates an inland waterways petroleum fleet providing mid-river refueling, fleeting, and supply services on the Mississippi River and its tributaries. Client requires regular refueling and fleeting services for Client's petroleum barge fleet.
+
+1. SERVICES
+Fleet Operator shall provide: (a) mid-river diesel refueling for Client's towboats and barges; (b) fleeting services at designated fleeting areas per Exhibit A; (c) deck supplies and provisions as requested per Rate Schedule B.
+
+2. REFUELING RATES
+Diesel fuel shall be priced at Fleet Operator's posted rack price on the date of delivery plus a $0.12/gallon service fee. Client shall receive a $0.03/gallon volume discount for monthly purchases exceeding 150,000 gallons.
+
+3. FLEETING FEES
+Fleeting fees are $48 per barge per day for open fleeting areas and $72 per barge per day for covered/protected fleeting. Fleet Operator shall maintain fleeting capacity for up to 18 Client barges simultaneously.
+
+**RISK FLAG - CAPACITY GUARANTEE:** Fleet Operator guarantees capacity for 18 barges but the agreement does not specify any remedy if Fleet Operator cannot accommodate Client barges during high-demand periods. In peak season, Client barges could be displaced with no contractual recourse.
+
+4. COAST GUARD AND REGULATORY COMPLIANCE
+Fleet Operator shall maintain all applicable USCG certifications and compliance. Fleet Operator shall provide documented compliance records to Client upon request.
+
+5. SPILL RESPONSE
+Fleet Operator maintains a USCG-approved Vessel Response Plan. In the event of a fuel spill during mid-river refueling, Fleet Operator bears primary response costs. Client shall cooperate with Fleet Operator in spill response.
+
+**RISK FLAG - SPILL LIABILITY ON MOVING WATER:** Inland waterway spills are subject to federal OPA 90 liability which is strict and uncapped for responsible parties. The agreement does not address how OPA 90 liability between the parties will be allocated in a joint-operation spill, creating significant exposure for both parties.
+
+6. WEATHER AND RIVER CONDITIONS
+Fleet Operator reserves the right to suspend services during adverse weather, high water events, or USCG navigational restrictions without penalty. Client shall have no recourse for service interruptions due to river conditions.
+
+7. LIABILITY CAP
+Fleet Operator's aggregate liability under this Agreement shall not exceed $1,500,000 per incident, regardless of the nature of the claim.
+
+8. INSURANCE
+Fleet Operator shall maintain Protection & Indemnity (P&I) insurance of $10,000,000 per occurrence and hull insurance on all vessels. Client shall be named as additional insured for fleet operations.
+
+GOVERNING LAW: State of Mississippi (with applicable federal maritime law)

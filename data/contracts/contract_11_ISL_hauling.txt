@@ -1,0 +1,43 @@
+CONTRACT ID: ERG-ISL-2024-011
+TYPE: Liquid Products Hauling Agreement – Asphalt & Specialty Oils
+BRANCH: ISL (Integrated Services & Logistics)
+PARTIES: Ergon Integrated Services & Logistics, LLC ("Carrier") | Gulf States Highway Authority ("Shipper")
+EFFECTIVE DATE: July 1, 2024
+EXPIRATION DATE: June 30, 2025
+AUTO-RENEWAL: Yes, annual, 60-day written notice required to terminate
+
+RECITALS
+Carrier operates a flexible transportation system for asphalt, specialty oils, propane, chemicals, and liquid petroleum products. Shipper requires transportation of liquid asphalt cement from Ergon's terminal to Shipper's designated project sites across Mississippi, Alabama, and Louisiana.
+
+1. SERVICES
+Carrier shall transport liquid asphalt cement from origins designated in Exhibit A to project sites designated by Shipper on a per-haul basis. Services are ordered on a spot basis with 48-hour minimum notice.
+
+2. RATES
+Flat rate of $6.20 per loaded mile. Minimum haul charge of $450 per load regardless of distance. Fuel surcharge applies per the Fuel Surcharge Matrix in Exhibit B, indexed to the DOE weekly retail diesel price.
+
+3. EQUIPMENT
+Carrier shall use DOT-compliant insulated asphalt tankers. All equipment must be inspected and certified per DOT requirements. Carrier shall provide equipment age and inspection records upon request.
+
+4. DRIVER QUALIFICATIONS
+All drivers shall hold valid CDL-A with Hazmat endorsement. Carrier shall maintain driver qualification files per FMCSA requirements. Shipper may reject any driver for documented safety violations.
+
+5. DELIVERY REQUIREMENTS
+Carrier shall maintain asphalt temperature between 300°F and 375°F during transport. Carrier shall provide temperature logs with each delivery. 
+
+**RISK FLAG - TEMPERATURE LOG DOCUMENTATION:** The agreement requires temperature logs but does not specify what happens if logs are incomplete or missing. If a delivery dispute arises about product quality at delivery, missing temperature records leave Carrier without documentation of compliance.
+
+6. LOADING AND UNLOADING
+Loading at Ergon terminals is governed by terminal operating procedures. Unloading at project sites is Shipper's responsibility. Carrier's driver shall not operate Shipper's unloading equipment.
+
+7. ACCIDENT AND INCIDENT REPORTING
+Carrier shall report all accidents, spills, and near-misses to Shipper within 2 hours of occurrence. Carrier shall cooperate with all post-incident investigations.
+
+8. LIABILITY
+Carrier shall maintain auto liability of $5,000,000 combined single limit and cargo insurance of $500,000. 
+
+**RISK FLAG - CARGO INSURANCE GAP:** Cargo insurance of $500,000 may be insufficient for full loads of liquid asphalt, which can exceed $75,000-$100,000 in product value per load at current market prices, not accounting for remediation costs in a spill event.
+
+9. INDEPENDENT CONTRACTOR
+Carrier is an independent contractor. Nothing in this Agreement creates an employment or agency relationship between the parties.
+
+GOVERNING LAW: State of Mississippi

@@ -1,0 +1,41 @@
+CONTRACT ID: ERG-CORP-2024-014
+TYPE: Master Vendor Agreement – Enterprise IT & Professional Services
+BRANCH: Corporate (Ergon, Inc.)
+PARTIES: Ergon, Inc. ("Company") | Meridian Technology Solutions, LLC ("Vendor")
+EFFECTIVE DATE: January 1, 2024
+EXPIRATION DATE: December 31, 2026
+AUTO-RENEWAL: No
+
+RECITALS
+Company requires enterprise IT services, software implementation, and professional consulting services across its business units. Vendor provides enterprise technology consulting, software integration, and IT managed services.
+
+1. MASTER AGREEMENT STRUCTURE
+This Master Agreement governs all Statements of Work ("SOWs") executed between Company and Vendor. In the event of conflict between this Master Agreement and any SOW, the SOW shall control for that specific engagement.
+
+**RISK FLAG - SOW PRECEDENCE:** The provision that SOWs control over the Master Agreement in conflicts is a significant risk. Individual project managers executing SOWs may inadvertently override critical Master Agreement protections (liability caps, IP ownership, confidentiality) without realizing it.
+
+2. FEES AND PAYMENT
+All fees shall be specified in the applicable SOW. Company shall pay undisputed invoices within 45 days of receipt. Vendor may charge interest at 1% per month on invoices unpaid beyond 60 days.
+
+3. INTELLECTUAL PROPERTY
+All work product, code, deliverables, and documentation created by Vendor specifically for Company under this Agreement shall be the property of Company upon full payment ("Work for Hire"). Vendor retains ownership of its pre-existing tools, frameworks, and methodologies ("Background IP"). Vendor grants Company a perpetual, royalty-free license to any Background IP embedded in Company deliverables.
+
+4. DATA SECURITY
+Vendor shall maintain an information security program consistent with SOC 2 Type II standards. Vendor shall notify Company within 48 hours of any security incident involving Company data.
+
+**RISK FLAG - SECURITY INCIDENT NOTIFICATION:** 48-hour notification is longer than some state data breach notification requirements (e.g., certain states require 24-hour notification to regulators). Company should confirm this aligns with its regulatory obligations.
+
+5. CONFIDENTIALITY
+Each party shall maintain confidentiality of the other's proprietary information for 3 years following termination. Vendor shall not disclose Company's operational data, financial information, or project details to third parties.
+
+6. LIABILITY CAP
+Vendor's aggregate liability under this Agreement and all SOWs shall not exceed the fees paid to Vendor in the 12 months preceding the claim giving rise to liability.
+
+7. INDEMNIFICATION
+Vendor shall indemnify Company against third-party claims for IP infringement arising from Vendor's deliverables. Company shall indemnify Vendor against claims arising from Company's use of deliverables outside the scope of this Agreement.
+
+8. TERMINATION
+Either party may terminate this Master Agreement with 60 days notice if no SOWs are active. Active SOWs may be terminated per their individual terms.
+
+9. GOVERNING LAW
+State of Mississippi. Disputes resolved by mediation first, then binding arbitration.

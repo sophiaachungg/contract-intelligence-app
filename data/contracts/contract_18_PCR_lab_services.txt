@@ -1,0 +1,37 @@
+CONTRACT ID: ERG-PCR-2024-018
+TYPE: Laboratory Services Agreement – Asphalt and Emulsion Testing
+BRANCH: PCR (Pavement & Coating Resources)
+PARTIES: Ergon Pavement & Coating Resources, LLC ("Laboratory") | Great Plains Asphalt, LLC ("Client")
+EFFECTIVE DATE: February 1, 2024
+EXPIRATION DATE: January 31, 2026
+AUTO-RENEWAL: Yes, annual, 30-day written notice required to terminate
+
+RECITALS
+Laboratory provides analytical and performance testing services for asphalt emulsions, polymer modified binders, and related paving materials. Client submits samples for quality verification, formulation screening, and field-performance evaluation.
+
+1. SERVICES
+Laboratory shall perform the test methods identified in each purchase order or statement of work, including but not limited to viscosity, residue, storage stability, and wheel-tracking tests. Laboratory shall use commercially reasonable efforts to meet requested turnaround times.
+
+2. FEES
+Standard testing fees are set forth in Exhibit A. Expedited testing within 3 business days requires a 40% rush surcharge. Payment terms are net 30. Overdue amounts accrue interest at 1.25% per month.
+
+3. SAMPLE RETENTION
+Laboratory may retain a representative retained sample for up to 45 days after delivery of results unless Client requests earlier destruction in writing.
+
+4. REPORTING
+Laboratory shall deliver a written report for each completed sample set. Reports are intended for informational purposes only and do not constitute a warranty that the tested material will perform in all field conditions.
+
+**RISK FLAG - RELIANCE DISCLAIMER:** The report disclaimer limits Client's ability to assert that it relied on the laboratory result as a performance guarantee. This can be problematic where the testing outcome is used to release large production batches.
+
+5. CONFIDENTIALITY
+Laboratory shall not disclose Client's formulations, specifications, or test results except to its employees and contractors with a need to know or as required by law. Laboratory shall provide prompt notice of any compelled disclosure unless prohibited by law.
+
+6. LIABILITY LIMITATION
+Laboratory's liability for erroneous testing shall be limited to the lesser of (i) the amount paid for the test giving rise to the claim or (ii) re-performance of the test at no charge.
+
+**RISK FLAG - EXTREMELY LOW REMEDY:** If an incorrect result causes significant downstream losses, the remedy is still limited to the test fee or a free retest, which is unusually narrow for a quality-control service.
+
+7. TERMINATION
+Either party may terminate for convenience with 30 days written notice. Client remains responsible for completed work and any non-cancelable specialty materials.
+
+GOVERNING LAW: State of Mississippi

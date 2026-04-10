@@ -1,0 +1,43 @@
+CONTRACT ID: ERG-ISL-2024-013
+TYPE: Crude Oil Logistics & Gathering Agreement
+BRANCH: ISL (Integrated Services & Logistics)
+PARTIES: Ergon Integrated Services & Logistics, LLC ("Gatherer") | Tombigbee Basin Exploration, LLC ("Producer")
+EFFECTIVE DATE: October 1, 2024
+EXPIRATION DATE: September 30, 2026
+AUTO-RENEWAL: Yes, annual, 120-day written notice required to terminate
+
+RECITALS
+Gatherer provides crude oil logistics, gathering, and storage solutions across Mississippi. Producer operates producing oil wells in the Tombigbee Basin and requires crude oil gathering and transportation from wellhead to designated delivery points.
+
+1. GATHERING SERVICES
+Gatherer shall connect Producer's well locations to Gatherer's gathering system per Exhibit A. Gatherer shall gather, transport, and deliver all crude oil volumes tendered by Producer meeting the quality specifications in Exhibit B.
+
+2. DEDICATION
+Producer hereby dedicates to this Agreement all crude oil produced from the wells listed in Exhibit C and all future wells drilled by Producer within the geographic area defined in Exhibit D ("Dedicated Area") for the term of this Agreement.
+
+**RISK FLAG - ACREAGE DEDICATION:** The dedication clause covers all future wells Producer drills within the Dedicated Area. This is an expansive commitment that limits Producer's ability to use other gathering services for new production without breaching this Agreement, which could reduce Producer's bargaining leverage on future gathering rates.
+
+3. GATHERING FEE
+Gathering fee: $3.40 per barrel, subject to annual PPI adjustment not to exceed 3%.
+
+4. MINIMUM VOLUME COMMITMENT
+Producer commits to delivering a minimum of 8,500 barrels per month. Deficiency charges of $1.80 per barrel apply for monthly volumes below the minimum.
+
+5. GATHERER SYSTEM OBLIGATIONS
+Gatherer shall maintain sufficient system capacity to accept all dedicated volumes up to 15,000 barrels per month. Gatherer shall expand capacity within 180 days if Producer's volumes consistently exceed system capacity.
+
+**RISK FLAG - CAPACITY EXPANSION TIMELINE:** The 180-day capacity expansion window means Producer could have volumes ready to ship with no gathering capacity for up to 6 months. During this period, Producer's options for alternative gathering are limited by the dedication clause.
+
+6. TITLE AND RISK
+Title and risk of loss remain with Producer until delivery at the designated delivery point. Gatherer is not a purchaser of the crude oil.
+
+7. MEASUREMENT
+Custody transfer measurement shall occur at the wellhead meter. Gatherer shall calibrate and maintain meters per API standards. Producer may witness meter calibrations upon 48-hour notice.
+
+8. FORCE MAJEURE
+Pipeline outages, natural disasters, and regulatory shutdowns qualify. Gatherer shall provide alternative routing where commercially practicable during force majeure.
+
+9. TERMINATION
+The 120-day termination notice requirement and acreage dedication survive for the full term. Early termination by Producer without cause requires payment of a fee equal to 12 months of minimum volume commitment charges.
+
+GOVERNING LAW: State of Mississippi

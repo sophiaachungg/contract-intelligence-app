@@ -1,0 +1,41 @@
+CONTRACT ID: ERG-PCR-2024-005
+TYPE: Product Development & Formulation Agreement
+BRANCH: PCR (Pavement & Coating Resources)
+PARTIES: Ergon Pavement & Coating Resources, LLC ("Ergon") | Texas DOT Materials Division ("Client")
+EFFECTIVE DATE: February 15, 2024
+EXPIRATION DATE: February 14, 2026
+AUTO-RENEWAL: No
+
+RECITALS
+Ergon operates a product development arm specializing in the design, development, and testing of polymer modified asphalt and emulsion formulations. Client requires development and performance testing of a high-performance polymer modified asphalt formulation for use in high-traffic interstate applications in extreme temperature environments.
+
+1. SCOPE OF WORK
+Ergon shall design, develop, and deliver laboratory and field-tested polymer modified asphalt formulations meeting the performance specifications in Exhibit A, including PG 76-22 performance grade requirements and rutting resistance per AASHTO T324. Ergon shall provide monthly progress reports and a final technical report upon project completion.
+
+2. FEES AND MILESTONES
+Total project fee: $387,500, payable per the milestone schedule in Exhibit B.
+- Phase 1 (Formulation Design): $95,000 upon completion
+- Phase 2 (Lab Testing): $142,500 upon delivery of test results
+- Phase 3 (Field Trial Support): $100,000 upon completion of field observation period
+- Final Report: $50,000 upon acceptance
+
+**RISK FLAG - ACCEPTANCE CRITERIA:** The Agreement defines "acceptance" of the Final Report as Client's written approval, but does not specify a timeline for Client to review or a deemed-accepted provision if Client does not respond. This creates an open-ended payment trigger that Client could delay indefinitely.
+
+3. INTELLECTUAL PROPERTY
+All formulations, processes, and technical data developed exclusively for Client under this Agreement shall be the property of Client upon full payment. Ergon retains the right to use general knowledge, know-how, and non-client-specific methodologies developed during the project in future work.
+
+**RISK FLAG - IP OWNERSHIP:** The boundary between "client-specific formulations" and Ergon's retained "general know-how" is not clearly defined. If a formulation developed for Client proves commercially valuable, this ambiguity could result in an IP ownership dispute.
+
+4. CONFIDENTIALITY
+Each party shall maintain the confidentiality of the other's proprietary information for 5 years following expiration. Ergon shall not disclose Client's project specifications or test results to third parties without written consent.
+
+5. LIABILITY
+Ergon's total liability for claims arising under this Agreement shall not exceed the total fees paid to Ergon under this Agreement. Ergon shall not be liable for pavement performance failures resulting from Client's construction practices, materials substitutions, or deviations from Ergon's recommended application parameters.
+
+6. INDEMNIFICATION
+Ergon shall indemnify Client against claims arising from defects in Ergon's formulation design. Client shall indemnify Ergon against claims arising from Client's implementation or application of the formulations in the field.
+
+7. TERMINATION
+Client may terminate for convenience with 30 days notice. Upon termination, Client shall pay for all work completed through the termination date plus reasonable wind-down costs not to exceed 10% of the remaining contract value.
+
+GOVERNING LAW: State of Mississippi

@@ -1,0 +1,40 @@
+CONTRACT ID: ERG-ISL-2024-012
+TYPE: Specialty Construction & Maintenance Services Agreement
+BRANCH: ISL (Integrated Services & Logistics)
+PARTIES: Ergon Integrated Services & Logistics, LLC ("Owner") | Delta Industrial Contractors, LLC ("Contractor")
+EFFECTIVE DATE: August 1, 2024
+EXPIRATION DATE: July 31, 2026
+AUTO-RENEWAL: No
+
+RECITALS
+Owner requires industrial construction, maintenance, and specialty construction services at its terminal and pipeline facilities. Contractor is engaged in industrial pipeline construction, tank maintenance, and facility construction services.
+
+1. SCOPE
+Contractor shall perform construction and maintenance services as requested by Owner through individual Work Orders issued under this Master Services Agreement. Each Work Order shall specify scope, schedule, and compensation.
+
+2. COMPENSATION
+Work shall be compensated on a time-and-materials basis per the Labor Rate Schedule in Exhibit A unless a fixed-price Work Order is mutually agreed. Owner shall pay undisputed invoices within 30 days. Contractor may suspend work after 45 days of non-payment.
+
+3. SAFETY
+Contractor shall comply with Owner's Site Safety Plan and all applicable OSHA regulations. Contractor shall conduct a Job Hazard Analysis ("JHA") prior to beginning any non-routine work. All Contractor personnel working at Owner's facilities shall complete Owner's site safety orientation.
+
+**RISK FLAG - SAFETY COMPLIANCE ENFORCEMENT:** The agreement requires Contractor to comply with Owner's Safety Plan but does not specify Owner's right to audit Contractor's safety practices or remove personnel for safety violations without triggering a contract dispute. This limits Owner's ability to enforce safety standards in real time.
+
+4. INDEMNIFICATION
+Contractor shall indemnify Owner against claims for bodily injury or property damage arising from Contractor's work, including Contractor's subcontractors.
+
+**RISK FLAG - INDEMNIFICATION SCOPE:** The indemnification clause is written as a "broad form" indemnity that may not be enforceable in Mississippi, which limits anti-indemnity provisions under certain circumstances. The clause should be reviewed for compliance with Mississippi's Oilfield Anti-Indemnity Statute if any work involves oil and gas facilities.
+
+5. INSURANCE
+Contractor shall maintain: (a) workers' compensation per statutory limits; (b) commercial general liability $2,000,000 per occurrence, $5,000,000 aggregate; (c) auto liability $1,000,000 CSL; (d) umbrella/excess $5,000,000.
+
+6. LIENS
+Contractor shall provide lien waivers with each invoice. Owner may withhold final payment until Contractor delivers final unconditional lien waivers.
+
+7. SUBCONTRACTORS
+Contractor may use subcontractors with Owner's prior written approval. Contractor remains fully responsible for all subcontractor work.
+
+8. WARRANTY
+Contractor warrants all work for one year from completion. Defective work shall be remediated at Contractor's expense within 30 days of written notice.
+
+GOVERNING LAW: State of Mississippi

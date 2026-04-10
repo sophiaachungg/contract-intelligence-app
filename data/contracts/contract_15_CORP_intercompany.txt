@@ -1,0 +1,45 @@
+CONTRACT ID: ERG-CORP-2024-015
+TYPE: Intercompany Services Agreement
+BRANCH: Corporate (Ergon, Inc.)
+PARTIES: Ergon, Inc. ("Parent") | Ergon Energy & Specialty Solutions, LLC; Ergon Pavement & Coating Resources, LLC; Ergon Integrated Services & Logistics, LLC (collectively, "Subsidiaries")
+EFFECTIVE DATE: January 1, 2024
+EXPIRATION DATE: December 31, 2024
+AUTO-RENEWAL: Yes, annual, 90-day written notice required to terminate
+
+RECITALS
+Parent provides shared corporate services to Subsidiaries including legal, finance, HR, IT, compliance, risk management, and executive management. This Agreement establishes the terms under which those services are provided and the cost allocation methodology.
+
+1. SERVICES PROVIDED
+Parent shall provide the following shared services to Subsidiaries:
+(a) Legal counsel and contract management
+(b) Accounting, tax, and financial reporting
+(c) Human resources, payroll, and benefits administration
+(d) Information technology infrastructure and support
+(e) Risk management and insurance procurement
+(f) Regulatory compliance oversight
+(g) Executive and strategic management
+
+2. COST ALLOCATION
+Shared services costs shall be allocated to Subsidiaries based on the allocation methodology in Exhibit A (the "Allocation Schedule"), which uses a combination of headcount, revenue, and usage-based drivers.
+
+**RISK FLAG - TRANSFER PRICING:** Intercompany cost allocation must be documented at arm's length to comply with IRS transfer pricing rules (IRC §482). The agreement references an Exhibit A methodology but does not specify that the methodology has been reviewed for arm's-length compliance. If audited, an undocumented or unsupported allocation methodology could result in significant tax adjustments.
+
+3. PAYMENT
+Subsidiaries shall pay their allocated share of shared services costs monthly within 30 days of invoice. Allocation shall be trued up annually based on actual costs.
+
+4. SERVICE LEVELS
+Parent shall maintain service levels consistent with industry standards for each service category. Subsidiaries may request service level metrics quarterly.
+
+**RISK FLAG - NO SLA REMEDIES:** The agreement commits Parent to "industry standard" service levels but provides no remedy, credit, or escalation path if service levels are not met. Subsidiaries have no contractual recourse if corporate shared services underperform.
+
+5. INTELLECTUAL PROPERTY
+All tools, systems, and processes developed by Parent for shared services delivery remain Parent's property. Subsidiaries receive a license to use such tools solely for business operations during the term.
+
+6. CONFIDENTIALITY
+All Subsidiary financial, operational, and personnel data shared with Parent for service delivery is confidential and shall not be shared across Subsidiaries without consent.
+
+7. TERMINATION
+Any Subsidiary may withdraw from this Agreement with 90 days notice. Withdrawal does not affect the obligations of remaining Subsidiaries.
+
+8. GOVERNING LAW
+State of Mississippi.

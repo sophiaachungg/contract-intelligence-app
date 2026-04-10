@@ -1,0 +1,40 @@
+CONTRACT ID: ERG-CORP-2024-022
+TYPE: Software License and Implementation Agreement
+BRANCH: Corporate (Ergon, Inc.)
+PARTIES: Ergon, Inc. ("Licensee") | Atlas Workflow Systems, LLC ("Licensor")
+EFFECTIVE DATE: October 1, 2024
+EXPIRATION DATE: September 30, 2027
+AUTO-RENEWAL: Yes, annual, 90-day written notice required to terminate
+
+RECITALS
+Licensor provides cloud-based workflow automation, document management, and reporting software. Licensee desires to deploy the software across finance, procurement, and legal operations.
+
+1. LICENSE
+Licensor grants Licensee a non-exclusive, non-transferable license to use the software during the Term for internal business operations only. Usage is limited to the number of named users and business units specified in Exhibit A.
+
+2. IMPLEMENTATION
+Licensor shall configure the software, migrate approved documents, and provide training according to the implementation plan in Exhibit B. Change requests outside scope shall be billed on a time-and-materials basis.
+
+3. FEES
+License fees are payable annually in advance. Implementation fees are payable 50% upfront and 50% upon go-live.
+
+4. DATA SECURITY
+Licensor shall maintain commercially reasonable safeguards and notify Licensee within 72 hours of becoming aware of any security incident affecting Licensee data.
+
+**RISK FLAG - SECURITY NOTICE DELAY:** A 72-hour notice period may be too slow for rapid incident response, especially where downstream contractual notice obligations are shorter. The agreement also lacks a clear subprocessor approval mechanism.
+
+5. INTELLECTUAL PROPERTY
+Licensor retains all right, title, and interest in the software, updates, and derivative works. Licensee owns its own data and any custom content created solely by Licensee.
+
+6. WARRANTIES AND DISCLAIMERS
+Licensor warrants only that the software will operate materially as described in the documentation. Except as expressly stated, the software is provided "as is" and Licensor disclaims implied warranties to the maximum extent permitted by law.
+
+**RISK FLAG - LIMITED WARRANTY REMEDY:** The sole remedy is repair, replacement, or credit at Licensor's option. There is no express service-level credit schedule for downtime, which may leave Licensee without meaningful recourse for business-critical outages.
+
+7. LIABILITY
+Licensor's aggregate liability under this Agreement shall not exceed amounts paid in the 12 months preceding the event giving rise to the claim.
+
+8. TERMINATION
+Either party may terminate for material breach if not cured within 30 days after written notice. Upon termination, Licensee shall cease use of the software and return or delete exported confidential materials.
+
+GOVERNING LAW: State of Delaware

@@ -1,0 +1,37 @@
+CONTRACT ID: ERG-PCR-2024-006
+TYPE: External Customer Formulation Testing Agreement
+BRANCH: PCR (Pavement & Coating Resources)
+PARTIES: Ergon Pavement & Coating Resources, LLC ("Testing Provider") | Consolidated Asphalt Partners, LLC ("Customer")
+EFFECTIVE DATE: April 1, 2024
+EXPIRATION DATE: March 31, 2025
+AUTO-RENEWAL: Yes, annual, 45-day written notice required to terminate
+
+RECITALS
+Testing Provider operates accredited laboratory facilities for formulation testing of asphalt emulsions and polymer modified asphalt products. Customer is an asphalt producer seeking third-party testing and performance validation services for Customer's proprietary emulsion formulations.
+
+1. SERVICES
+Testing Provider shall perform the testing services specified in each Statement of Work ("SOW") executed under this Agreement. Services include ASTM and AASHTO standard testing, rheological analysis, and field performance simulation. Each SOW shall specify the applicable tests, turnaround time, and fee.
+
+2. FEES
+Testing fees shall be per the Rate Schedule in Exhibit A. Rush turnaround (less than 5 business days) carries a 35% surcharge. Payment is due net 30 from invoice date. Late payments accrue interest at 1.5% per month.
+
+3. CONFIDENTIALITY
+Testing Provider shall treat all Customer formulations and test results as strictly confidential. Testing Provider employees with access to Customer samples shall execute individual non-disclosure agreements.
+
+**RISK FLAG - CONFIDENTIALITY SCOPE:** The confidentiality provision does not address what happens if Testing Provider's employees or agents are subpoenaed or required by law to disclose Customer's formulation data. No carve-out for legally compelled disclosure creates ambiguity.
+
+4. SAMPLE HANDLING AND RETENTION
+Testing Provider shall return or destroy all Customer samples within 30 days of test completion unless otherwise agreed in writing. Testing Provider assumes no liability for sample degradation during standard retention periods.
+
+5. RESULTS OWNERSHIP
+All test results and reports generated under this Agreement are the property of Customer. Testing Provider may retain anonymized aggregate data for internal benchmarking purposes only.
+
+6. LIABILITY
+Testing Provider's liability for errors in testing or reporting shall be limited to re-performing the affected test at no charge. Testing Provider shall not be liable for Customer's business decisions made in reliance on test results.
+
+**RISK FLAG - LIABILITY LIMITATION ON TESTING ERRORS:** If an erroneous test result causes Customer to release a non-conforming product to the market, Testing Provider's exposure is limited to a free re-test. This is extremely limited given the potential downstream consequences of a bad formulation reaching road construction projects.
+
+7. TERMINATION
+Either party may terminate for convenience with 45 days written notice. In-progress SOWs shall be completed and paid upon termination.
+
+GOVERNING LAW: State of Mississippi

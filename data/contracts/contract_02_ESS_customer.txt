@@ -1,0 +1,40 @@
+CONTRACT ID: ERG-ESS-2024-002
+TYPE: Customer Supply Agreement – Specialty Oils (International)
+BRANCH: ESS (Energy & Specialty Solutions)
+PARTIES: Ergon Energy & Specialty Solutions, LLC ("Seller") | Rheinische Schmierstoff GmbH ("Buyer")
+EFFECTIVE DATE: March 1, 2024
+EXPIRATION DATE: February 28, 2026
+AUTO-RENEWAL: No
+
+RECITALS
+Seller is a producer of specialty paraffinic and naphthenic oils for international industrial markets. Buyer is a German-based industrial lubricant formulator requiring consistent supply of Seller's paraffinic process oils for distribution across the European Union.
+
+1. PRODUCT AND VOLUME
+Seller shall supply Buyer with paraffinic process oils per the specifications in Exhibit A. Committed volume is 500 metric tons per quarter. Buyer may request up to 650 metric tons per quarter with 45 days advance notice, subject to Seller's available capacity.
+
+2. PRICING
+Pricing is denominated in USD and invoiced in EUR at the ECB reference rate on the date of invoice. Base price is $1,240 per metric ton. Annual price escalation shall not exceed 4% unless feedstock indices (as defined in Exhibit B) increase by more than 8% year-over-year, in which case Seller may initiate a renegotiation.
+
+**RISK FLAG - CURRENCY EXPOSURE:** The agreement does not include a currency hedge clause or a cap on EUR/USD fluctuation impact. If USD strengthens significantly, Buyer's effective cost increases without a relief mechanism, potentially triggering volume reductions or disputes.
+
+3. DELIVERY AND TITLE
+Delivery shall be CIF Rotterdam. Title and risk of loss transfer to Buyer upon arrival at Rotterdam port. Seller is responsible for export documentation and freight to Rotterdam. Buyer is responsible for customs clearance and import duties.
+
+4. REGULATORY COMPLIANCE
+Buyer shall be responsible for ensuring the products meet all applicable EU REACH regulations upon import. Seller shall provide Safety Data Sheets and certificates of analysis with each shipment. 
+
+**RISK FLAG - REGULATORY LIABILITY:** The agreement does not clearly allocate liability if a product is found to be non-compliant with EU REACH after delivery. Seller's position is that compliance responsibility transfers with title; this is ambiguous and could expose Seller to retroactive liability.
+
+5. LIABILITY LIMITATION
+Seller's total liability to Buyer for any claim arising under this Agreement shall not exceed the invoice value of the specific shipment giving rise to the claim. Neither party shall be liable for indirect, consequential, or punitive damages.
+
+6. FORCE MAJEURE
+Standard force majeure provisions apply including port closures, export restrictions, and refinery outages. Force majeure exceeding 90 days entitles Buyer to source from alternative suppliers for the duration without penalty, but the Agreement remains in effect.
+
+7. DISPUTE RESOLUTION
+All disputes shall be submitted to binding arbitration under ICC Rules in London, England. The language of arbitration shall be English.
+
+8. TERMINATION
+Either party may terminate with 120 days written notice. Early termination by Buyer shall require payment of a termination fee equal to 15% of the remaining committed volume value.
+
+GOVERNING LAW: State of New York (with ICC arbitration superseding for international disputes)

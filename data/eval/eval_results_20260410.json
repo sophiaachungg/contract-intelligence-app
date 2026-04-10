@@ -1,0 +1,351 @@
+[
+  {
+    "id": "Q01",
+    "category": "Direct Field Retrieval",
+    "question": "What is the termination notice period in ERG-ISL-2024-008?",
+    "ground_truth": "90 days written notice by either party. Carrier may terminate immediately if Shipper fails to pay two consecutive monthly invoices.",
+    "response": "According to contract ERG-ISL-2024-008, the termination notice period is 90 days.",
+    "tools_used": [
+      "lookup_structured_field"
+    ],
+    "escalated": false,
+    "latency_ms": 2339,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q02",
+    "category": "Direct Field Retrieval",
+    "question": "What is the monthly storage fee in ERG-ISL-2024-009?",
+    "ground_truth": "$38,500/month payable in advance, plus $4,200/month heating surcharge November through March, and $0.22 per barrel throughput fee.",
+    "response": "According to ERG-ISL-2024-009, the monthly storage fee is $38,500, payable in advance on the first business day of each month.",
+    "tools_used": [
+      "lookup_structured_field",
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 4236,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q03",
+    "category": "Direct Field Retrieval",
+    "question": "Who bears the risk of loss in ERG-ESS-2024-002?",
+    "ground_truth": "Buyer (Rheinische Schmierstoff GmbH), upon arrival at Rotterdam port.",
+    "response": "According to the contract ERG-ESS-2024-002, the risk of loss transfers to the Buyer upon arrival at the Rotterdam port.",
+    "tools_used": [
+      "lookup_structured_field",
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 4839,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q04",
+    "category": "Direct Field Retrieval",
+    "question": "What is the minimum monthly volume commitment in ERG-ISL-2024-013?",
+    "ground_truth": "8,500 barrels per month. Deficiency charges of $1.80 per barrel apply for shortfalls.",
+    "response": "According to the contract ERG-ISL-2024-013, the minimum monthly volume commitment is 8,500 barrels per month.",
+    "tools_used": [
+      "lookup_structured_field",
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 4386,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q05",
+    "category": "Direct Field Retrieval",
+    "question": "What is the total contract value in ERG-PCR-2024-005?",
+    "ground_truth": "$387,500 across four milestones: $95,000 Phase 1, $142,500 Phase 2, $100,000 Phase 3, $50,000 Final Report.",
+    "response": "According to the contract ERG-PCR-2024-005, the total contract value is $387,500.",
+    "tools_used": [
+      "lookup_structured_field",
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 4361,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q11",
+    "category": "Clause Understanding",
+    "question": "Which contract requires a Job Hazard Analysis before non-routine work begins?",
+    "ground_truth": "ERG-ISL-2024-012 (Specialty Construction & Maintenance Services Agreement with Delta Industrial Contractors).",
+    "response": "According to contract ERG-ISL-2024-012, a Job Hazard Analysis is required before non-routine work begins. This is stated in Section 3, SAFETY, of the contract.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 2131,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q12",
+    "category": "Clause Understanding",
+    "question": "Which agreement prohibits Ergon's buyer from reverse-engineering a supplier's formulations even after termination?",
+    "ground_truth": "ERG-ESS-2024-003. The restriction applies for 3 years post-termination.",
+    "response": "According to contract ERG-ESS-2024-003, the agreement prohibits Ergon's buyer from reverse-engineering a supplier's formulations even after termination, for a period of 3 years.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 2512,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q13",
+    "category": "Clause Understanding",
+    "question": "Which contract allows the seller to suspend shipments immediately for non-payment without a cure period?",
+    "ground_truth": "ERG-ESS-2024-016. Seller may suspend immediately for invoices more than 30 days overdue.",
+    "response": "According to the search results, the contract that allows the seller to suspend shipments immediately for non-payment without a cure period is ERG-ESS-2024-016. Specifically, Article 7 of this contract states: \"Seller may suspend shipments immediately for non-payment of undisputed invoices more than 30 days overdue.\"",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 4448,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q15",
+    "category": "Clause Understanding",
+    "question": "Which contract has a take-or-pay obligation that survives termination?",
+    "ground_truth": "ERG-ESS-2024-004. The take-or-pay shortfall fee of $0.04 per pound survives termination for volumes committed prior to notice.",
+    "response": "According to contract ERG-ESS-2024-004, there is a take-or-pay obligation that survives termination, meaning the buyer could owe shortfall payments even after the contract ends if committed volumes were not taken.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 2225,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q22",
+    "category": "Risk Identification",
+    "question": "Which contract exposes Ergon to OPA 90 federal liability without clear allocation between parties?",
+    "ground_truth": "ERG-ISL-2024-010 (Inland Waterway Fleet Services Agreement). The agreement does not address OPA 90 liability allocation in a joint-operation spill.",
+    "response": "According to contract ERG-ISL-2024-010, Ergon is exposed to OPA 90 federal liability without clear allocation between parties in the event of a fuel spill during mid-river refueling. This contract has a risk flag for spill liability on moving water, highlighting the significant exposure for both parties due to the lack of allocation of OPA 90 liability in a joint-operation spill.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 2988,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q23",
+    "category": "Risk Identification",
+    "question": "Which contract has a risk flag about a broad form indemnity that may not be enforceable under Mississippi law?",
+    "ground_truth": "ERG-ISL-2024-012. The indemnification clause may conflict with Mississippi's Oilfield Anti-Indemnity Statute.",
+    "response": "The contract that has a risk flag about a broad form indemnity that may not be enforceable under Mississippi law is ERG-ISL-2024-012.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 1954,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q24",
+    "category": "Risk Identification",
+    "question": "Which contracts have risk flags related to ambiguous or undefined pricing mechanisms?",
+    "ground_truth": "ERG-ESS-2024-004 (IHS Markit polyethylene index not specified by sub-index) and ERG-ESS-2024-001 (NYMEX WTI renegotiation trigger).",
+    "response": "Based on the search results, the contracts with risk flags related to ambiguous or undefined pricing mechanisms are:\n\n* ERG-ESS-2024-004: The contract references the \"IHS Markit polyethylene index\" without specifying which sub-index or publication, which could lead to pricing disputes.\n* ERG-PCR-2024-007: The contract adjusts pricing based on the butadiene monomer index (ICIS) with a cap of 6% annual increase, but it's unclear how costs above the cap will be handled.\n\nThese contracts have risk flags related to pricing mechanisms, and procurement staff should review them carefully to ensure they understand the pricing terms and potential risks.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 4466,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q27",
+    "category": "Cross-Document",
+    "question": "Which contracts are governed by a state other than Mississippi?",
+    "ground_truth": "ERG-ESS-2024-002 (New York), ERG-PCR-2024-007 (Texas), ERG-ESS-2024-016 (New York), ERG-CORP-2024-022 (Delaware), ERG-ESS-2024-024 (Texas), ERG-ISL-2024-021 (Louisiana).",
+    "response": "Based on the search results, none of the contracts in the search results are governed by a state other than Mississippi. All four contracts ([ERG-ESS-2024-004], [ERG-CORP-2024-015], [ERG-ESS-2024-003], and [ERG-PCR-2024-019]) specify the governing law as the State of Mississippi.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 2887,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q28",
+    "category": "Cross-Document",
+    "question": "Which contracts require binding arbitration for dispute resolution?",
+    "ground_truth": "ERG-ESS-2024-002 (ICC Rules, London), ERG-ESS-2024-004 (binding arbitration, Jackson MS), ERG-CORP-2024-014 (mediation first, then binding arbitration).",
+    "response": "Based on the search results, the contracts that require binding arbitration for dispute resolution are:\n\n* ERG-ESS-2024-002, which specifies binding arbitration under ICC Rules in London, England.\n* ERG-CORP-2024-014, which requires disputes to be resolved by mediation first, then binding arbitration.\n* ERG-ESS-2024-004, which specifies binding arbitration in Jackson, Mississippi.\n\nThese contracts require binding arbitration as a means of dispute resolution.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 3059,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q30",
+    "category": "Cross-Document",
+    "question": "Which ISL contracts involve crude oil specifically?",
+    "ground_truth": "ERG-ISL-2024-008 (crude oil transportation) and ERG-ISL-2024-013 (crude oil logistics and gathering).",
+    "response": "Based on the search results, the ISL contracts that involve crude oil specifically are:\n\n* ERG-ISL-2024-008 (Crude Oil Transportation Agreement)\n* ERG-ESS-2024-001 (although it's not specifically an ISL contract, it does mention crude oil)\n\nThese contracts mention crude oil in the context of transportation, pricing, quality, and liability.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 3131,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q31",
+    "category": "Edge Cases",
+    "question": "Which contract lacks any defined remedy if the operator fails to maintain required storage temperatures?",
+    "ground_truth": "ERG-ISL-2024-009. Specifies required temperature range (275F-325F) but provides no credit or recourse if Operator fails to maintain it.",
+    "response": "According to contract ERG-ISL-2024-009, there is no defined remedy if the operator fails to maintain required storage temperatures. This is highlighted as a risk flag in the contract, noting that if asphalt solidifies due to a heating system failure, the cost of remediation and product loss could be substantial with no contractual recourse defined.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 2823,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q32",
+    "category": "Edge Cases",
+    "question": "Which contract is missing a clear acceptance timeline for final deliverables, creating an open-ended payment trigger?",
+    "ground_truth": "ERG-PCR-2024-005. Acceptance of the Final Report requires Client's written approval with no specified review deadline or deemed-accepted provision.",
+    "response": "The contract missing a clear acceptance timeline for final deliverables, creating an open-ended payment trigger, is ERG-PCR-2024-005. Specifically, the agreement defines \"acceptance\" of the Final Report as Client's written approval, but does not specify a timeline for Client to review or a deemed-accepted provision if Client does not respond.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 2943,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q38",
+    "category": "Multi-Hop Reasoning",
+    "question": "Which contracts require both a minimum volume commitment AND impose deficiency or shortfall charges?",
+    "ground_truth": "ERG-ESS-2024-004, ERG-ISL-2024-008, ERG-ISL-2024-013, ERG-ISL-2024-020, ERG-ESS-2024-024.",
+    "response": "Based on the search results, the contracts that require both a minimum volume commitment and impose deficiency or shortfall charges are:\n\n* ERG-ISL-2024-008: This contract has a minimum monthly committed volume and imposes a deficiency charge of $2.10 per barrel of shortfall.\n* ERG-ISL-2024-013 (both instances): This contract has a minimum volume commitment of 8,500 barrels per month and imposes deficiency charges of $1.80 per barrel for monthly volumes below the minimum.\n\nThese contracts meet the specified criteria, as they both require a minimum volume commitment and impose charges for any shortfall.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 7352,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q41",
+    "category": "Natural Language",
+    "question": "What does our hauling contract say about what happens if the driver doesn't provide temperature logs?",
+    "ground_truth": "ERG-ISL-2024-011 requires temperature logs but does not define a remedy or consequence for missing or incomplete logs.",
+    "response": "According to our hauling contract ERG-ISL-2024-011, if the driver doesn't provide temperature logs, the agreement does not specify what happens. However, it is noted as a risk flag, indicating that missing temperature records may leave the carrier without documentation of compliance in case of a delivery dispute about product quality at delivery.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 2918,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q43",
+    "category": "Natural Language",
+    "question": "How long does Ergon have to replace an SBS polymer shipment that gets rejected under our PCR vendor agreement?",
+    "ground_truth": "Under ERG-PCR-2024-007, Supplier must replace non-conforming product within 21 days of rejection. Buyer has 10 business days post-delivery to reject.",
+    "response": "I apologize for the mistake. It seems that I couldn't find a contract with the ID \"PCR vendor agreement\". Can you please provide more context or information about the contract you're referring to, such as the actual contract ID or a description of the agreement? I'll do my best to assist you.",
+    "tools_used": [
+      "lookup_structured_field"
+    ],
+    "escalated": false,
+    "latency_ms": 2535,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q45",
+    "category": "Natural Language",
+    "question": "Who is responsible for customs clearance when we ship base oils to Spain?",
+    "ground_truth": "Under ERG-ESS-2024-016, Buyer (IberLube S.A.) is responsible for import duties, VAT, and local customs brokerage. Seller handles export clearance and ocean freight to Valencia.",
+    "response": "According to Contract ERG-ESS-2024-016, when we ship base oils to Spain, the Buyer (IberLube S.A.) is responsible for import duties, VAT, and local customs brokerage, while the Seller (Ergon Energy & Specialty Solutions, LLC) is responsible for arranging export clearance and ocean freight.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 2740,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q47",
+    "category": "Ambiguity",
+    "question": "Which contracts should procurement flag for legal review before renewal?",
+    "ground_truth": "ERG-ISL-2024-008, ERG-ISL-2024-010, ERG-ISL-2024-013, ERG-CORP-2024-015, ERG-ESS-2024-003. System should reason from risk flags, not just return documents.",
+    "response": "Based on the search results, procurement should flag the following contracts for legal review before renewal:\n\n* ERG-ISL-2024-025 (Equipment Rental and Maintenance Agreement): This contract has an expiration date of January 31, 2027, and does not have an auto-renewal clause. Since the renewal notice days are not specified, it's essential to review the contract terms before renewal.\n* ERG-CORP-2024-022 (Software License and Implementation Agreement): This contract has an auto-renewal clause with a 90-day written notice required to terminate. Procurement should review the contract terms, especially the termination notice period, to ensure a smooth renewal process.\n* ERG-ESS-2024-003 (Vendor Supply Agreement \u2013 Rubber Process Oil Additives): This contract has an auto-renewal clause with a 60-day written notice required to terminate. Procurement should review the contract terms, including the exclusivity clause, to ensure compliance with the agreement.\n\nThese contracts require legal review to ensure that Ergon's interests are protected, and the renewal process is handled correctly.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 6739,
+    "error": null,
+    "score": null,
+    "notes": null
+  },
+  {
+    "id": "Q48",
+    "category": "Ambiguity",
+    "question": "Which contracts have vague or loosely defined performance standards?",
+    "ground_truth": "ERG-CORP-2024-015 (industry standard service levels, no remedy), ERG-CORP-2024-022 (software warranty limited to operating materially as described), ERG-PCR-2024-018 (reports informational only), ERG-PCR-2024-019 (no specific service life warranty).",
+    "response": "Based on the search results, the contracts with vague or loosely defined performance standards are:\n\n* ERG-CORP-2024-015: This contract has a risk flag for \"NO SLA REMEDIES\" as it commits to \"industry standard\" service levels but provides no remedy, credit, or escalation path if service levels are not met.\n* ERG-PCR-2024-019: This contract has a risk flag for \"DATA RIGHTS AMBIGUITY\" as it allows the Developer to use de-identified trial data but does not define what constitutes de-identification, which may lead to re-identification risk.\n* ERG-ISL-2024-011: This contract has a risk flag for \"TEMPERATURE LOG DOCUMENTATION\" as it requires temperature logs but does not specify what happens if logs are incomplete or missing, which may lead to delivery disputes.\n\nThese contracts have performance standards that are vague or loosely defined, which may lead to potential risks or disputes.",
+    "tools_used": [
+      "search_contracts"
+    ],
+    "escalated": false,
+    "latency_ms": 6479,
+    "error": null,
+    "score": null,
+    "notes": null
+  }
+]

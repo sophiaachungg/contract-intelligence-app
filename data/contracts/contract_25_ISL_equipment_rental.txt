@@ -1,0 +1,35 @@
+CONTRACT ID: ERG-ISL-2024-025
+TYPE: Equipment Rental and Maintenance Agreement
+BRANCH: ISL (Integrated Services & Logistics)
+PARTIES: Ergon Integrated Services & Logistics, LLC ("Owner") | River Delta Services, Inc. ("Renter")
+EFFECTIVE DATE: February 1, 2025
+EXPIRATION DATE: January 31, 2027
+AUTO-RENEWAL: No
+
+RECITALS
+Owner rents transport-related equipment, including portable pumps, hoses, meters, and containment accessories, for use in petroleum logistics operations. Renter requires temporary equipment support during seasonal project peaks.
+
+1. EQUIPMENT RENTAL
+Owner shall rent the equipment listed in Exhibit A to Renter on a monthly basis. Renter shall keep the equipment in good condition, use it only for its intended purpose, and return it at the end of the rental period.
+
+2. RENTAL FEES
+Monthly rental fee shall be as set forth in Exhibit A. Renter shall pay a refundable deposit equal to one month of rental fees. Late payments accrue interest at 1.5% per month.
+
+3. MAINTENANCE AND REPAIRS
+Owner shall perform ordinary maintenance and repairs resulting from normal wear and tear. Renter shall be responsible for damage caused by misuse, negligence, contamination, freezing, or unauthorized modification.
+
+4. INSPECTION AND LOSS
+Renter shall inspect the equipment upon receipt and notify Owner of any visible defects within 24 hours. Renter assumes risk of loss, theft, or destruction while equipment is in its possession.
+
+**RISK FLAG - LOSS ALLOCATION:** The risk of loss passes fully to Renter, but the contract does not specify whether that includes damage caused by latent defects existing before delivery. That omission can create an avoidable dispute if equipment fails shortly after deployment.
+
+5. INDEMNIFICATION
+Renter shall indemnify Owner for third-party claims arising from Renter's use, operation, or storage of the equipment. Owner shall indemnify Renter for claims arising from Owner's gross negligence in maintenance.
+
+6. LIABILITY
+Owner's liability shall not exceed the total rental fees actually received for the affected equipment in the 6 months preceding the claim. No party shall be liable for consequential damages.
+
+7. TERMINATION
+Either party may terminate with 30 days' written notice. Owner may repossess equipment immediately upon non-payment, unsafe use, or material breach.
+
+GOVERNING LAW: State of Mississippi

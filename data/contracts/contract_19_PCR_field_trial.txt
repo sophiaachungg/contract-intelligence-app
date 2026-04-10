@@ -1,0 +1,37 @@
+CONTRACT ID: ERG-PCR-2024-019
+TYPE: Field Trial and Product Evaluation Agreement
+BRANCH: PCR (Pavement & Coating Resources)
+PARTIES: Ergon Pavement & Coating Resources, LLC ("Developer") | Southeastern Transportation Authority ("Authority")
+EFFECTIVE DATE: August 15, 2024
+EXPIRATION DATE: August 14, 2025
+AUTO-RENEWAL: No
+
+RECITALS
+Developer is engaged in the development of asphalt and coating technologies. Authority seeks to evaluate a new polymer modified pavement system on designated roadway segments under controlled field conditions.
+
+1. PILOT PROGRAM
+Developer shall provide product formulation support, application guidance, and on-site technical observation during the field trial. Authority shall designate test sections, coordinate contractor access, and supervise traffic control.
+
+2. PROJECT FUNDING
+Authority shall pay a fixed project fee of $214,000. Fifty percent shall be due upon mobilization and the remainder upon delivery of the final evaluation memorandum.
+
+3. PERFORMANCE DATA
+Authority shall furnish traffic counts, weather logs, and maintenance records reasonably requested by Developer for analysis. Developer may use de-identified trial data for internal product improvement purposes.
+
+4. OWNERSHIP
+All project-specific reports and technical notes created by Developer for Authority shall be owned by Authority after full payment. Developer retains ownership of pre-existing methods, models, and templates.
+
+**RISK FLAG - DATA RIGHTS AMBIGUITY:** The clause allows Developer to use de-identified trial data but does not define what constitutes de-identification. If the dataset includes location-specific roadway data, re-identification risk may remain.
+
+5. WARRANTY AND DISCLAIMER
+Developer does not warrant that the pilot product will achieve any specific service life, rut resistance, or crack resistance beyond the conditions expressly set forth in Exhibit A.
+
+6. LIABILITY
+Developer's liability for project-related claims shall not exceed the total amount paid under the Agreement. Developer shall not be responsible for failures caused by subgrade conditions, contractor deviation, or unauthorized material substitution.
+
+**RISK FLAG - FIELD FAILURE ALLOCATION:** The Agreement places most of the project failure risk on Authority but does not define a technical dispute process for separating formulation failure from contractor installation error.
+
+7. TERMINATION
+Authority may terminate for convenience with 45 days written notice. Developer shall be paid for completed milestones and approved travel expenses incurred before termination.
+
+GOVERNING LAW: State of Mississippi

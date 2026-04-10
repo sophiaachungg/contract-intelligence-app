@@ -1,0 +1,37 @@
+CONTRACT ID: ERG-PCR-2024-007
+TYPE: Vendor Supply Agreement – Polymer Modifiers
+BRANCH: PCR (Pavement & Coating Resources)
+PARTIES: Ergon Pavement & Coating Resources, LLC ("Buyer") | Kraton Polymers U.S. LLC ("Supplier")
+EFFECTIVE DATE: January 15, 2024
+EXPIRATION DATE: January 14, 2026
+AUTO-RENEWAL: No
+
+RECITALS
+Buyer manufactures polymer modified asphalt products requiring SBS (styrene-butadiene-styrene) and SBR (styrene-butadiene rubber) polymer modifiers. Supplier is a producer of thermoplastic elastomers and SBS polymers used in asphalt modification.
+
+1. VOLUME AND ORDERING
+Buyer shall submit purchase orders on a rolling 60-day forecast basis. Supplier guarantees availability of up to 1.2 million pounds per month of SBS polymer meeting the specifications in Exhibit A. Orders submitted within the 60-day forecast window shall be treated as firm commitments by Buyer.
+
+**RISK FLAG - FIRM COMMITMENT WINDOW:** Purchase orders within the 60-day forecast window are treated as firm commitments. If Buyer's downstream demand drops (e.g., due to a state DOT project delay), Buyer remains obligated to take delivery and pay for committed volumes with no cancellation right.
+
+2. PRICING
+Pricing is fixed for the first 12 months per Exhibit B. After month 12, pricing adjusts based on the butadiene monomer index (ICIS) with a cap of 6% annual increase. If the index drives costs above the cap, Supplier may request a renegotiation.
+
+3. DELIVERY
+FOB Supplier's Houston, Texas facility. Buyer arranges all freight. Supplier shall provide 72-hour notice prior to each shipment.
+
+4. QUALITY ASSURANCE
+Supplier shall provide certificates of analysis with each shipment. Buyer has 10 business days post-delivery to reject non-conforming product. Rejected product returned at Supplier's expense. Supplier shall replace non-conforming product within 21 days.
+
+5. SUPPLY CONTINUITY
+In the event Supplier anticipates any supply disruption exceeding 30 days, Supplier shall provide 60 days advance written notice to Buyer. 
+
+**RISK FLAG - SUPPLY CONTINUITY NOTICE:** The 60-day notice requirement for anticipated disruptions only applies when Supplier "anticipates" the disruption. Force majeure events (hurricane, plant fire) would not trigger this notice, leaving Buyer with no protection for sudden supply interruptions to a critical raw material.
+
+6. SOLE SOURCE
+Buyer acknowledges that Supplier is Buyer's primary source for SBS polymer modifiers for the term of this Agreement. Buyer agrees not to qualify or use an alternative SBS supplier without providing 90 days advance written notice to Supplier.
+
+7. LIABILITY AND INDEMNIFICATION
+Supplier's aggregate liability shall not exceed $2,000,000 per contract year. Each party indemnifies the other for its own negligence.
+
+GOVERNING LAW: State of Texas

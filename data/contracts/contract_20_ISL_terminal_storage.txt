@@ -1,0 +1,38 @@
+CONTRACT ID: ERG-ISL-2024-020
+TYPE: Terminal Storage and Handling Agreement
+BRANCH: ISL (Integrated Services & Logistics)
+PARTIES: Ergon Integrated Services & Logistics, LLC ("Terminal Operator") | North Delta Fuel, LLC ("Customer")
+EFFECTIVE DATE: January 1, 2024
+EXPIRATION DATE: December 31, 2026
+AUTO-RENEWAL: Yes, annual, 60-day written notice required to terminate
+
+RECITALS
+Terminal Operator provides bulk storage, heating, blending, sampling, and truck loading services for liquid petroleum products. Customer requires storage capacity for distillates and related petroleum streams.
+
+1. SERVICES
+Terminal Operator shall provide up to 120,000 barrels of storage capacity, product heating as necessary, truck rack loading, and basic product sampling. Additional services shall be billed at Terminal Operator's then-current tariff.
+
+2. STORAGE FEES
+Customer shall pay a monthly storage fee of $0.72 per barrel reserved, irrespective of actual throughput. Handling fees shall apply to each receipt and each shipment. Minimum monthly revenue commitment is $28,000.
+
+3. PRODUCT QUALITY
+Customer warrants that all products delivered to the terminal meet the specifications in Exhibit A. Terminal Operator may reject off-spec product or require Customer to remove such product at Customer's expense.
+
+4. INVENTORY LOSS
+Terminal Operator shall be responsible for unexplained inventory loss only to the extent such loss exceeds 0.30% of monthly throughput, measured on a mass balance basis.
+
+**RISK FLAG - SHRINKAGE TOLERANCE:** The 0.30% allowance may be significant on high-volume tankage. The Agreement also lacks a clear audit mechanism, so disputes over measurement methodology could be difficult to resolve.
+
+5. INDEMNITY
+Customer shall indemnify Terminal Operator for claims arising from Customer's product quality, labeling, or ownership disputes. Terminal Operator shall indemnify Customer for claims arising from Terminal Operator's gross negligence in handling or loading operations.
+
+6. LIABILITY
+Terminal Operator's total aggregate liability shall not exceed three months of storage and handling fees paid by Customer. Neither party shall be liable for lost market opportunities or indirect damages.
+
+7. FORCE MAJEURE
+Fire, tank outage, power failure, pipeline interruption, and regulatory orders restricting operation shall constitute force majeure. During a force majeure event, Terminal Operator may allocate capacity among customers on a pro rata basis.
+
+8. TERMINATION
+Either party may terminate for convenience with 90 days written notice. Customer shall remove all stored product by the termination date or be charged daily demurrage and transfer fees.
+
+GOVERNING LAW: State of Mississippi

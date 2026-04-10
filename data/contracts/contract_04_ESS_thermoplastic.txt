@@ -1,0 +1,35 @@
+CONTRACT ID: ERG-ESS-2024-004
+TYPE: Customer Supply Agreement – Thermoplastic Resins
+BRANCH: ESS (Energy & Specialty Solutions)
+PARTIES: Ergon Energy & Specialty Solutions, LLC ("Seller") | MidAmerica Plastics Manufacturing, Inc. ("Buyer")
+EFFECTIVE DATE: September 1, 2024
+EXPIRATION DATE: August 31, 2026
+AUTO-RENEWAL: No
+
+RECITALS
+Seller produces thermoplastic resin products including HDPE and specialty polymer blends. Buyer is a plastics manufacturer requiring consistent supply of thermoplastic resins for production of industrial containers and components.
+
+1. VOLUME COMMITMENTS
+Buyer commits to purchasing a minimum of 2.5 million pounds of thermoplastic resin per contract year. Seller commits to supplying up to 3.2 million pounds per contract year. Volumes beyond 3.2 million pounds are subject to Seller's capacity availability and written agreement.
+
+2. PRICING
+Pricing shall be based on a base rate per pound as specified in Exhibit A, adjusted monthly based on the IHS Markit polyethylene index. 
+
+**RISK FLAG - PRICE ADJUSTMENT MECHANISM:** The contract references the "IHS Markit polyethylene index" without specifying which sub-index or publication. IHS Markit publishes multiple polyethylene benchmarks. Ambiguity in index definition could lead to pricing disputes.
+
+3. DELIVERY
+Delivery terms are FOB Seller's Vicksburg, Mississippi facility. Buyer arranges all outbound freight.
+
+4. TAKE-OR-PAY
+If Buyer fails to purchase the minimum annual volume, Buyer shall pay Seller a shortfall fee equal to $0.04 per pound of shortfall. This take-or-pay obligation survives termination of the Agreement for volumes committed prior to notice of termination.
+
+**RISK FLAG - TAKE-OR-PAY SURVIVAL:** The take-or-pay obligation survives termination, meaning Buyer could owe shortfall payments even after the contract ends if committed volumes were not taken. This is a meaningful financial exposure if Buyer's demand declines.
+
+5. PRODUCT WARRANTY
+Seller warrants that products will conform to specifications in Exhibit A at the time of shipment. Seller's sole obligation for non-conforming product is replacement or credit. Seller expressly disclaims all other warranties, express or implied.
+
+6. FORCE MAJEURE
+Standard provisions. Includes feedstock shortages from Seller's upstream suppliers as a qualifying force majeure event.
+
+7. GOVERNING LAW
+State of Mississippi. Disputes resolved by binding arbitration in Jackson, Mississippi.

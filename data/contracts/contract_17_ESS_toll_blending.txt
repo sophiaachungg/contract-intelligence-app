@@ -1,0 +1,38 @@
+CONTRACT ID: ERG-ESS-2024-017
+TYPE: Toll Blending and Packaging Agreement
+BRANCH: ESS (Energy & Specialty Solutions)
+PARTIES: Ergon Energy & Specialty Solutions, LLC ("Blender") | Valley Industrial Lubricants, Inc. ("Customer")
+EFFECTIVE DATE: July 1, 2024
+EXPIRATION DATE: June 30, 2025
+AUTO-RENEWAL: No
+
+RECITALS
+Blender operates blending, packaging, and warehousing facilities for industrial oils and lubricants. Customer requires toll blending, filling, labeling, and palletization services for finished lubricant products sold under Customer's brands.
+
+1. SERVICES
+Blender shall receive Customer-owned base stocks and additives, blend finished lubricants according to Customer specifications, and package products in drums, totes, and bulk tankers as directed in each release order.
+
+2. FEES
+Blending fee shall be $0.092 per finished gallon. Packaging fee shall be billed separately per Exhibit A. Customer shall pay all inbound freight for raw materials and all outbound freight for finished goods.
+
+3. MATERIAL OWNERSHIP
+All raw materials supplied by Customer shall remain Customer property at all times. Finished goods produced from Customer materials shall become Customer property upon completion of blending and packaging, subject to payment of all outstanding fees.
+
+4. INVENTORY STORAGE
+Blender may store up to 30 days of finished goods at no charge. Storage beyond 30 days shall incur daily warehousing fees. Blender shall not be responsible for degradation caused by long-term storage of Customer product beyond recommended shelf life.
+
+**RISK FLAG - STORAGE LIABILITY LIMIT:** The Agreement disclaims liability for degradation during extended storage, but it does not specify who bears the cost if blending defects are not discovered until product has already been packaged and warehoused. That timing gap can make defect allocation difficult.
+
+5. CONFIDENTIALITY
+Each party shall maintain the confidentiality of the other's formulations, specifications, pricing, and customer lists. Blender may disclose Customer product details to subcontracted carriers only to the extent necessary for performance.
+
+6. INDEMNIFICATION
+Customer shall indemnify Blender for claims arising from the composition or inherent hazards of Customer-supplied raw materials. Blender shall indemnify Customer for claims arising from negligent blending, contamination, or packaging errors committed by Blender.
+
+7. LIABILITY
+Blender's total liability shall not exceed the fees paid for the specific batch giving rise to the claim. Neither party shall be liable for consequential, incidental, or punitive damages.
+
+8. TERMINATION
+Either party may terminate for convenience with 60 days written notice. Customer shall pay for work-in-process, packaging already purchased, and non-cancelable materials ordered to support committed release schedules.
+
+GOVERNING LAW: State of Mississippi

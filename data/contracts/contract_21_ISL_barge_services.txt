@@ -1,0 +1,35 @@
+CONTRACT ID: ERG-ISL-2024-021
+TYPE: Marine Barge Services Agreement
+BRANCH: ISL (Integrated Services & Logistics)
+PARTIES: Ergon Integrated Services & Logistics, LLC ("Carrier") | Gulf Refining Transfer, Inc. ("Shipper")
+EFFECTIVE DATE: April 15, 2024
+EXPIRATION DATE: April 14, 2026
+AUTO-RENEWAL: No
+
+RECITALS
+Carrier operates marine barges and related logistics services for liquid petroleum products on inland waterways and coastal routes. Shipper requires scheduled barge movements from Mississippi River terminals to Gulf Coast destinations.
+
+1. SERVICES
+Carrier shall transport nominated cargoes of liquid petroleum products in accordance with Shipper's written tenders and the applicable berth schedules. Nominations must be submitted at least 7 days in advance.
+
+2. RATES
+Transportation rates are stated in Exhibit A and include fuel surcharge adjustment based on published marine fuel indices. Wait time beyond 12 hours at loading or discharge shall be billed at the demurrage rate in Exhibit B.
+
+3. LOADING AND DISCHARGE
+Shipper shall be responsible for ensuring cargo is properly loaded, sampled, and documented. Carrier may refuse cargo that exceeds safe draft, temperature, or vapor pressure limits.
+
+4. CARGO QUALITY
+Shipper warrants that cargo meets all applicable product specifications and is free of contaminants. Shipper shall be responsible for all damage caused by incompatible or off-spec cargo.
+
+**RISK FLAG - CARGO MIXING RISK:** The Agreement does not clearly assign liability for contamination discovered after custody transfer but before discharge. In a marine logistics dispute, that ambiguity can create evidentiary problems about where the contamination occurred.
+
+5. INSURANCE AND POLLUTION RESPONSE
+Each party shall maintain insurance as described in Exhibit C. Carrier shall promptly respond to spills caused by Carrier equipment failure. Shipper shall bear the cost of any spill caused by hazardous cargo characteristics or misdeclaration.
+
+6. LIABILITY LIMITATION
+Carrier's aggregate liability shall not exceed the freight charges paid for the specific movement giving rise to the claim. Excluded damages include loss of use, business interruption, and punitive damages.
+
+7. TERMINATION
+Either party may terminate on 60 days' written notice. Carrier may suspend service immediately if Shipper fails to provide complete cargo documentation or safe berth access.
+
+GOVERNING LAW: State of Louisiana, without regard to conflict of laws principles

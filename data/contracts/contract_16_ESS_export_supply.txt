@@ -1,0 +1,37 @@
+CONTRACT ID: ERG-ESS-2024-016
+TYPE: Export Supply Agreement – Specialty Base Oils
+BRANCH: ESS (Energy & Specialty Solutions)
+PARTIES: Ergon Energy & Specialty Solutions, LLC ("Seller") | IberLube S.A. ("Buyer")
+EFFECTIVE DATE: May 1, 2024
+EXPIRATION DATE: April 30, 2026
+AUTO-RENEWAL: Yes, annual, 75-day written notice required to terminate
+
+RECITALS
+Seller manufactures specialty base oils for industrial lubricant blending. Buyer operates blending facilities in Spain and requires a stable supply of Group II base oils for export distribution in Southern Europe and North Africa.
+
+1. PRODUCT AND VOLUME
+Seller shall supply Buyer with up to 7,500 metric tons per quarter of specialty base oils meeting the specifications in Exhibit A. Buyer shall provide rolling 60-day forecasts and binding monthly nominations at least 20 days before shipment.
+
+2. PRICING
+Pricing is fixed for the first 12 months at $1,185 per metric ton. Thereafter, pricing shall adjust quarterly based on the API Group II base oil benchmark plus freight and handling as stated in Exhibit B. Either party may request a price review if feedstock costs move by more than 10% in any calendar quarter.
+
+3. DELIVERY AND TITLE
+Delivery terms shall be CFR Valencia, Spain. Risk of loss transfers to Buyer upon loading at the port of export. Seller shall arrange export clearance and ocean freight. Buyer shall be responsible for import duties, VAT, and local customs brokerage.
+
+4. REGULATORY COMPLIANCE
+Buyer shall be responsible for ensuring importation and resale compliance with all applicable EU product stewardship and labeling requirements. Seller shall provide SDS documents and certificates of origin with each shipment.
+
+**RISK FLAG - REGULATORY GAP:** The Agreement does not allocate responsibility if a shipment is rejected by customs for missing or inconsistent product documentation. In a documentation dispute, the parties may each assert the other had the final duty to verify compliance.
+
+5. QUALITY AND REMEDIES
+Buyer shall inspect shipments within 7 business days after arrival. Seller's sole obligation for non-conforming product is replacement of the affected volume or credit at Seller's option. Buyer shall not deduct disputed amounts from other invoices.
+
+6. LIABILITY LIMITATION
+Seller's aggregate liability under this Agreement shall not exceed the invoice value of the shipment giving rise to the claim. Neither party shall be liable for loss of profit, business interruption, or indirect damages.
+
+**RISK FLAG - LOW CAP ON SHIPPING CLAIMS:** Because the liability cap is tied only to the disputed shipment value, claims relating to regulatory fines, contamination, or port delays may be materially undercompensated.
+
+7. TERMINATION
+Either party may terminate for convenience with 90 days written notice. Seller may suspend shipments immediately for non-payment of undisputed invoices more than 30 days overdue.
+
+GOVERNING LAW: State of New York

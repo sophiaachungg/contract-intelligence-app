@@ -1,0 +1,40 @@
+CONTRACT ID: ERG-ISL-2024-008
+TYPE: Crude Oil Transportation Agreement
+BRANCH: ISL (Integrated Services & Logistics)
+PARTIES: Ergon Integrated Services & Logistics, LLC ("Carrier") | Mid-Continent Energy Partners, LLC ("Shipper")
+EFFECTIVE DATE: March 1, 2024
+EXPIRATION DATE: February 28, 2025
+AUTO-RENEWAL: Yes, annual, 90-day written notice required to terminate
+
+RECITALS
+Carrier operates a flexible transportation system for crude oil, asphalt, specialty oils, and liquid petroleum products. Shipper produces crude oil in Mississippi and requires transportation services from producing wellheads to Shipper's designated refinery or terminal locations.
+
+1. TRANSPORTATION SERVICES
+Carrier shall transport crude oil volumes nominated by Shipper from origins specified in Exhibit A to destinations specified in Exhibit A. Minimum committed volume is 15,000 barrels per month. Shipper shall submit nominations 5 business days prior to the requested loading date.
+
+2. RATES
+Transportation rate is $4.85 per barrel for hauls up to 200 miles. Hauls exceeding 200 miles are subject to a mileage surcharge of $0.018 per barrel per mile over 200. Rates are subject to annual adjustment not to exceed the PPI (Producer Price Index) Transportation category year-over-year change.
+
+3. CARRIER OBLIGATIONS
+Carrier shall maintain adequate equipment, personnel, and insurance to meet Shipper's committed volumes. Carrier shall comply with all applicable DOT, EPA, and state regulations governing crude oil transportation.
+
+4. SHIPPER OBLIGATIONS
+Shipper warrants that all crude oil tendered for transport meets the quality specifications in Exhibit B, including BS&W (basic sediment and water) limits. Shipper shall be liable for all costs associated with off-spec crude, including cleaning, disposal, and equipment damage.
+
+**RISK FLAG - OFF-SPEC CRUDE LIABILITY:** Shipper's liability for off-spec crude is uncapped. If off-spec crude damages Carrier's tanker equipment, Shipper's exposure could significantly exceed the value of the transported product.
+
+5. SPILL RESPONSE AND ENVIRONMENTAL LIABILITY
+Each party shall maintain environmental liability insurance as specified in Exhibit C. In the event of a spill or release during transportation, Carrier shall bear primary responsibility for spill response costs. 
+
+**RISK FLAG - SPILL LIABILITY ALLOCATION:** The agreement does not clearly allocate liability for spills caused by a combination of Carrier error and Shipper's off-spec crude. In a mixed-fault spill scenario, contribution and indemnification rights are ambiguous.
+
+6. FORCE MAJEURE
+Road closures, weather events, and regulatory shutdowns qualify as force majeure. Carrier shall provide alternative routing where commercially practicable.
+
+7. MINIMUM VOLUME AND DEFICIENCY CHARGES
+If Shipper nominates less than the minimum monthly committed volume, Shipper shall pay a deficiency charge of $2.10 per barrel of shortfall.
+
+8. TERMINATION
+Either party may terminate with 90 days written notice. Carrier may terminate immediately if Shipper fails to pay two consecutive monthly invoices.
+
+GOVERNING LAW: State of Mississippi

@@ -1,0 +1,40 @@
+CONTRACT ID: ERG-CORP-2024-023
+TYPE: Professional Services Agreement – Strategy and Operations Consulting
+BRANCH: Corporate (Ergon, Inc.)
+PARTIES: Ergon, Inc. ("Company") | Northbridge Advisory Group, LLC ("Consultant")
+EFFECTIVE DATE: June 10, 2024
+EXPIRATION DATE: June 9, 2025
+AUTO-RENEWAL: No
+
+RECITALS
+Company engages Consultant to provide strategy, process improvement, and project management support for internal operational initiatives.
+
+1. SERVICES
+Consultant shall provide advisory services, workshop facilitation, process mapping, and project tracking support as described in individual statements of work. Consultant shall not make decisions on behalf of Company.
+
+2. FEES
+Consultant shall be paid at the rates set forth in Exhibit A. Invoices shall be issued monthly and payable net 30. Approved travel expenses are reimbursable at cost.
+
+3. WORK PRODUCT
+All deliverables specifically created for Company and paid for in full shall be owned by Company. Consultant retains ownership of its pre-existing templates, frameworks, and know-how.
+
+4. CONFIDENTIALITY
+Consultant shall keep Company information confidential during the Term and for 5 years thereafter. Consultant shall limit access to Company information to personnel with a need to know.
+
+5. NON-SOLICITATION
+During the Term and for 12 months thereafter, Consultant shall not solicit Company employees with whom Consultant had direct contact in the prior 12 months.
+
+**RISK FLAG - BROAD NON-SOLICIT:** The clause is limited to employees, but the surrounding language around "direct contact" is vague. In practice, disputes may arise over which personnel interactions count as solicitation activity.
+
+6. INDEMNIFICATION
+Consultant shall indemnify Company for third-party claims arising from Consultant's negligence or willful misconduct. Company shall indemnify Consultant for claims resulting from Company-provided materials or instructions.
+
+7. LIABILITY CAP
+Consultant's total liability shall not exceed the fees paid under the applicable statement of work in the 6 months preceding the claim.
+
+**RISK FLAG - TIGHT LIABILITY WINDOW:** Tying liability to only the prior 6 months of fees can substantially reduce recoverable damages in longer projects, especially if a claim surfaces after work has already ended.
+
+8. TERMINATION
+Either party may terminate for convenience with 30 days written notice. Company shall pay for all work performed through the termination date plus any non-cancelable commitments approved in writing.
+
+GOVERNING LAW: State of Mississippi

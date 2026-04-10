@@ -1,0 +1,40 @@
+CONTRACT ID: ERG-ISL-2024-009
+TYPE: Storage Services Agreement – Asphalt & Chemical Tankage
+BRANCH: ISL (Integrated Services & Logistics)
+PARTIES: Ergon Integrated Services & Logistics, LLC ("Operator") | Sunbelt Paving Materials, Inc. ("Customer")
+EFFECTIVE DATE: May 1, 2024
+EXPIRATION DATE: April 30, 2026
+AUTO-RENEWAL: Yes, annual, 60-day written notice required to terminate
+
+RECITALS
+Operator provides bulk liquid storage solutions for asphalt, chemicals, and petroleum products. Customer requires heated tankage for asphalt cement storage at Operator's Vicksburg, Mississippi terminal facility.
+
+1. STORAGE CAPACITY
+Operator shall provide Customer with dedicated storage capacity of 25,000 barrels of heated tankage at the Vicksburg Terminal. Capacity is reserved exclusively for Customer during the term. Customer shall maintain a minimum inventory of 5,000 barrels at all times to ensure tank integrity.
+
+2. FEES
+Monthly storage fee: $38,500, payable in advance on the first business day of each month. Heating surcharge during winter months (November–March): $4,200/month additional. Throughput fee: $0.22 per barrel in/out.
+
+3. OPERATOR OBLIGATIONS
+Operator shall maintain tank temperature between 275°F and 325°F for asphalt cement storage. Operator shall provide 24/7 monitoring and alarm systems. Operator shall provide weekly inventory reports to Customer.
+
+**RISK FLAG - TEMPERATURE MAINTENANCE SLA:** The agreement does not specify any remedy or credit if Operator fails to maintain required temperature ranges. If asphalt solidifies due to a heating system failure, the cost of remediation and product loss could be substantial with no contractual recourse defined.
+
+4. CUSTOMER OBLIGATIONS
+Customer is responsible for the quality of product introduced into storage. Customer shall provide SDS for all products prior to introduction. Customer shall not store any product not disclosed and approved in advance.
+
+5. PRODUCT LOSS
+Operator shall not be liable for normal product loss (evaporation, line loss) not exceeding 0.15% of throughput volume. Operator shall be liable for product loss attributable to Operator's negligence or equipment failure.
+
+6. ENVIRONMENTAL
+Customer shall be responsible for environmental remediation costs associated with Customer's product, including spills caused by Customer's loading/unloading operations. Operator shall be responsible for spills originating from Operator's terminal infrastructure.
+
+7. INSURANCE
+Customer shall maintain: (a) commercial general liability of $5,000,000 per occurrence; (b) environmental liability of $10,000,000 per occurrence. Operator shall be named as additional insured.
+
+**RISK FLAG - INSURANCE ASYMMETRY:** The agreement specifies Customer's insurance requirements in detail but does not specify Operator's required insurance coverage. Customer has no contractual guarantee that Operator carries adequate coverage for a major tank failure or environmental incident.
+
+8. TERMINATION
+Customer may terminate with 60 days written notice. Upon termination, Customer has 30 days to remove all product from storage. Product remaining after 30 days may be disposed of by Operator at Customer's expense.
+
+GOVERNING LAW: State of Mississippi

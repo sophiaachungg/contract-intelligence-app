@@ -1,0 +1,38 @@
+CONTRACT ID: ERG-ESS-2024-024
+TYPE: Distribution Agreement – Specialty Chemicals
+BRANCH: ESS (Energy & Specialty Solutions)
+PARTIES: Ergon Energy & Specialty Solutions, LLC ("Supplier") | Tri-State Chemical Distributors, Inc. ("Distributor")
+EFFECTIVE DATE: December 1, 2024
+EXPIRATION DATE: November 30, 2027
+AUTO-RENEWAL: Yes, annual, 120-day written notice required to terminate
+
+RECITALS
+Supplier manufactures specialty chemical products used in industrial and lubricant applications. Distributor markets and resells the products to approved accounts in a designated territory.
+
+1. TERRITORY AND CHANNELS
+Distributor shall have a non-exclusive right to market and resell the products in the territory described in Exhibit A. Supplier may sell directly to national accounts, OEM customers, and existing house accounts.
+
+2. PURCHASE COMMITMENT
+Distributor shall purchase a minimum of $1,250,000 in Products during each contract year. If the minimum is not met, Supplier may reduce discounts, terminate exclusivity, or convert the arrangement to non-exclusive status.
+
+3. PRICING AND DISCOUNTS
+Distributor shall purchase at the list price less the discount schedule in Exhibit B. Supplier may change list price on 60 days' notice, provided discounts are adjusted proportionately unless otherwise agreed.
+
+4. MARKETING
+Distributor shall use commercially reasonable efforts to promote the Products, maintain sales records, and comply with approved brand guidelines. Distributor shall not make product claims outside approved literature.
+
+5. RECALLS AND PRODUCT LIABILITY
+Supplier shall be responsible for manufacturing defects. Distributor shall promptly notify Supplier of customer complaints and cooperate in any recall. Distributor shall not voluntarily recall Products without Supplier's written consent, except where required by law.
+
+**RISK FLAG - RECALL DELAY:** Requiring Supplier consent for voluntary recalls could delay urgent mitigation in a customer safety event. The carve-out for legal necessity helps, but emergency decision-making remains slow.
+
+6. INDEMNIFICATION
+Supplier shall indemnify Distributor for claims arising from defectively manufactured Products. Distributor shall indemnify Supplier for claims arising from Distributor's off-label marketing or unauthorized claims.
+
+7. LIABILITY
+Supplier's liability is capped at the amounts paid for the Products giving rise to the claim during the prior 12 months. Indirect and consequential damages are waived.
+
+8. TERMINATION
+Either party may terminate for cause upon 30 days' written notice and failure to cure. Supplier may also terminate if Distributor loses required licenses or fails to meet the annual minimum purchase commitment.
+
+GOVERNING LAW: State of Texas

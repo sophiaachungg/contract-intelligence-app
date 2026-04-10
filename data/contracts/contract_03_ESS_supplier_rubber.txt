@@ -1,0 +1,37 @@
+CONTRACT ID: ERG-ESS-2024-003
+TYPE: Vendor Supply Agreement – Rubber Process Oil Additives
+BRANCH: ESS (Energy & Specialty Solutions)
+PARTIES: Ergon Energy & Specialty Solutions, LLC ("Buyer") | Gulf Coast Additive Technologies, LLC ("Supplier")
+EFFECTIVE DATE: June 1, 2024
+EXPIRATION DATE: May 31, 2025
+AUTO-RENEWAL: Yes, annual, 60-day written notice required to terminate
+
+RECITALS
+Buyer manufactures specialty oils for rubber and plastic processing applications and requires specialized additive packages to meet customer performance specifications. Supplier manufactures proprietary additive blends used in Buyer's rubber process oil product lines.
+
+1. SUPPLY AND EXCLUSIVITY
+Supplier agrees to supply Buyer exclusively within the Gulf South region for the additive formulations specified in Exhibit A. Supplier may not supply equivalent formulations to any direct competitor of Buyer's rubber process oil division without prior written consent.
+
+**RISK FLAG - EXCLUSIVITY ENFORCEMENT:** The exclusivity clause defines "direct competitor" narrowly as companies producing >50% of revenue from rubber process oils. Many of Buyer's actual competitors may not meet this threshold, rendering the exclusivity clause largely unenforceable in practice.
+
+2. MINIMUM PURCHASE
+Buyer commits to purchasing a minimum of $420,000 in additive product annually. Failure to meet minimum purchase commitment entitles Supplier to reduce exclusivity protections or terminate with 30 days notice.
+
+3. PRICING
+Pricing is fixed for the initial term per Exhibit B. Supplier may adjust pricing at renewal with 60 days notice. If Buyer rejects the new pricing, either party may elect not to renew.
+
+4. INTELLECTUAL PROPERTY
+All additive formulations supplied under this Agreement are proprietary to Supplier. Buyer shall not reverse-engineer, analyze for composition, or attempt to replicate any supplied formulation. Buyer's use of Supplier's formulations is limited to incorporation into Buyer's finished products.
+
+**RISK FLAG - IP CLAUSE:** The agreement prohibits Buyer from independently developing substantially similar formulations even after termination, for a period of 3 years. This post-termination restriction may be overly broad and could constrain Buyer's R&D activities.
+
+5. INDEMNIFICATION
+Supplier shall indemnify Buyer against third-party claims alleging that Supplier's additives infringe any patent or IP right. Buyer shall indemnify Supplier against claims arising from Buyer's finished products incorporating Supplier's additives.
+
+6. LIABILITY
+Supplier's aggregate liability shall not exceed $500,000 per contract year regardless of the number or nature of claims.
+
+7. TERMINATION FOR CAUSE
+Either party may terminate immediately upon material breach if not cured within 15 business days of written notice.
+
+GOVERNING LAW: State of Mississippi
