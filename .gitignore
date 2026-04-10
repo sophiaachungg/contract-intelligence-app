@@ -1,0 +1,8 @@
+.env
+.env.local
+node_modules/
+.DS_Store
+lambda_package/
+lambda_deployment.zip
+__pycache__/
+*.pyc
