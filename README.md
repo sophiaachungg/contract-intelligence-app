@@ -23,6 +23,8 @@ User → React (Vercel)
                    → RDS PostgreSQL (pgvector + metadata + agent_logs)
 ```
 
+<img src="architecture.png" width="900" alt="Architecture diagram"/>
+
 ## Agent Tools
 
 The LLM selects among four tools per query:
