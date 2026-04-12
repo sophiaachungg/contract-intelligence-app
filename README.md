@@ -32,9 +32,9 @@ The LLM selects among four tools per query:
 | Tool | Purpose |
 |------|---------|
 | `search_contracts` | Semantic search across all contract chunks via pgvector |
-| `lookup_structured_field` | Precise lookup of structured fields (dates, parties, governing law) |
-| `compare_contracts` | Cross-contract comparison for a given clause type |
-| `escalate_to_legal` | Flags questions requiring legal interpretation for human review |
+| `lookup_structured_field` | Precise lookup of structured fields (dates, parties, governing law, etc.) |
+| `compare_contracts` | Cross-contract comparison for any given clause type |
+| `escalate_to_legal` | Flags questions that require legal interpretation for human review |
 
 ## Stack
 
@@ -50,12 +50,12 @@ The LLM selects among four tools per query:
 ```
 contract-intelligence-app/
 ├── README.md
-├── .env.example                  ← environment variable template
+├── .env.example                  ← Environment variable template
 ├── requirements.txt              ← Python dependencies
 ├── backend/
 │   ├── agent.py                  ← Lambda handler + agent loop + tools
-│   ├── ingest.py                 ← contract ingestion pipeline
-│   ├── test_retrieval.py         ← retrieval verification script
+│   ├── ingest.py                 ← Contract ingestion pipeline
+│   ├── test_retrieval.py         ← Retrieval verification script
 │   └── db_setup.sql              ← RDS schema
 ├── frontend/
 │   ├── package.json
@@ -68,7 +68,7 @@ contract-intelligence-app/
     ├── contracts/                ← 25 synthetic Ergon contracts (.txt)
     └── eval/
         ├── ergon_eval_set.md     ← 50 ground truth Q&A pairs
-        └── eval_results.json     ← scored eval run results
+        └── eval_results.json     ← Scored eval run results
 ```
 
 ## Environment Variables
@@ -188,4 +188,4 @@ GROUP BY tool_called;
 
 ## Acknowledgements
 
-Synthetic contract data generated using Claude (Anthropic). Provided context regarding the business segments in Ergon based on publicly available data. Project built for DS 5730 Final Project.
+Synthetic contract data generated using Claude (Anthropic). Provided context regarding the business segments in Ergon based on publicly available data. Project built for the DS 5730 Final Project.
